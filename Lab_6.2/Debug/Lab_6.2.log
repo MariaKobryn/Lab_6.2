@@ -1,0 +1,10 @@
+﻿  Decimal.cpp
+C:\Users\Maria\source\repos\Lab_6.2\Lab_6.2\Decimal.h(15,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Maria\source\repos\Lab_6.2\Lab_6.2\Decimal.h(16,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Maria\source\repos\Lab_6.2\Lab_6.2\Decimal.cpp(7,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Maria\source\repos\Lab_6.2\Lab_6.2\Decimal.cpp(15,79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Lab_6.2.cpp
+C:\Users\Maria\source\repos\Lab_6.2\Lab_6.2\Decimal.h(15,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Maria\source\repos\Lab_6.2\Lab_6.2\Decimal.h(16,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  Lab_6.2.vcxproj -> C:\Users\Maria\source\repos\Lab_6.2\Debug\Lab_6.2.exe
